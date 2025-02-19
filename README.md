@@ -75,6 +75,6 @@ mnist-project/
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name]  
-[Your Email]  
-[Your GitHub Profile]
+Abhijeet 
+Abhijeet1472@gmail.com
+https://github.com/Abhijeet-Real
